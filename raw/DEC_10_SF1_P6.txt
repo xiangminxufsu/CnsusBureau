@@ -1,0 +1,11 @@
+P6
+RACE (TOTAL RACES TALLIED)
+
+Universe: Total races tallied
+
+NOTE: For information on confidentiality protection, nonsampling error, and definitions, see  http://www.census.gov/prod/cen2010/doc/sf1.pdf.
+
+ NOTE: The alone or in combination categories are tallies of responses rather than respondents. That is, the alone or in combination categories are not mutually exclusive. Individuals who reported two races were counted in two separate and distinct alone or in combination race categories, while those who reported three races were counted in three categories, and so on. For example, a respondent who indicated "White and Black or African American" was counted in the White alone or in combination category as well as in the Black or African American alone or in combination category. Consequently, the sum of all alone or in combination categories equals the number of races reported (i.e., responses), which exceeds the total population.
+
+Source: U.S. Census Bureau, 2010 Census.
+

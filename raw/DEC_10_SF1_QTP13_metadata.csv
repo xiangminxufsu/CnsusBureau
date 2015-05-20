@@ -1,0 +1,132 @@
+SUBHD0101_S01,Number - Both sexes; AGE - Group quarters population
+SUBHD0102_S01,Number - Male; AGE - Group quarters population
+SUBHD0103_S01,Number - Female; AGE - Group quarters population
+SUBHD0201_S01,Percent - Both sexes; AGE - Group quarters population
+SUBHD0202_S01,Percent - Male; AGE - Group quarters population
+SUBHD0203_S01,Percent - Female; AGE - Group quarters population
+SUBHD0101_S02,Number - Both sexes; AGE - Group quarters population - Under 18 years
+SUBHD0102_S02,Number - Male; AGE - Group quarters population - Under 18 years
+SUBHD0103_S02,Number - Female; AGE - Group quarters population - Under 18 years
+SUBHD0201_S02,Percent - Both sexes; AGE - Group quarters population - Under 18 years
+SUBHD0202_S02,Percent - Male; AGE - Group quarters population - Under 18 years
+SUBHD0203_S02,Percent - Female; AGE - Group quarters population - Under 18 years
+SUBHD0101_S03,Number - Both sexes; AGE - Group quarters population - 18 to 64 years
+SUBHD0102_S03,Number - Male; AGE - Group quarters population - 18 to 64 years
+SUBHD0103_S03,Number - Female; AGE - Group quarters population - 18 to 64 years
+SUBHD0201_S03,Percent - Both sexes; AGE - Group quarters population - 18 to 64 years
+SUBHD0202_S03,Percent - Male; AGE - Group quarters population - 18 to 64 years
+SUBHD0203_S03,Percent - Female; AGE - Group quarters population - 18 to 64 years
+SUBHD0101_S04,Number - Both sexes; AGE - Group quarters population - 65 years and over
+SUBHD0102_S04,Number - Male; AGE - Group quarters population - 65 years and over
+SUBHD0103_S04,Number - Female; AGE - Group quarters population - 65 years and over
+SUBHD0201_S04,Percent - Both sexes; AGE - Group quarters population - 65 years and over
+SUBHD0202_S04,Percent - Male; AGE - Group quarters population - 65 years and over
+SUBHD0203_S04,Percent - Female; AGE - Group quarters population - 65 years and over
+SUBHD0101_S05,Number - Both sexes; AGE - Institutionalized population
+SUBHD0102_S05,Number - Male; AGE - Institutionalized population
+SUBHD0103_S05,Number - Female; AGE - Institutionalized population
+SUBHD0201_S05,Percent - Both sexes; AGE - Institutionalized population
+SUBHD0202_S05,Percent - Male; AGE - Institutionalized population
+SUBHD0203_S05,Percent - Female; AGE - Institutionalized population
+SUBHD0101_S06,Number - Both sexes; AGE - Institutionalized population - Under 18 years
+SUBHD0102_S06,Number - Male; AGE - Institutionalized population - Under 18 years
+SUBHD0103_S06,Number - Female; AGE - Institutionalized population - Under 18 years
+SUBHD0201_S06,Percent - Both sexes; AGE - Institutionalized population - Under 18 years
+SUBHD0202_S06,Percent - Male; AGE - Institutionalized population - Under 18 years
+SUBHD0203_S06,Percent - Female; AGE - Institutionalized population - Under 18 years
+SUBHD0101_S07,Number - Both sexes; AGE - Institutionalized population - 18 to 64 years
+SUBHD0102_S07,Number - Male; AGE - Institutionalized population - 18 to 64 years
+SUBHD0103_S07,Number - Female; AGE - Institutionalized population - 18 to 64 years
+SUBHD0201_S07,Percent - Both sexes; AGE - Institutionalized population - 18 to 64 years
+SUBHD0202_S07,Percent - Male; AGE - Institutionalized population - 18 to 64 years
+SUBHD0203_S07,Percent - Female; AGE - Institutionalized population - 18 to 64 years
+SUBHD0101_S08,Number - Both sexes; AGE - Institutionalized population - 65 years and over
+SUBHD0102_S08,Number - Male; AGE - Institutionalized population - 65 years and over
+SUBHD0103_S08,Number - Female; AGE - Institutionalized population - 65 years and over
+SUBHD0201_S08,Percent - Both sexes; AGE - Institutionalized population - 65 years and over
+SUBHD0202_S08,Percent - Male; AGE - Institutionalized population - 65 years and over
+SUBHD0203_S08,Percent - Female; AGE - Institutionalized population - 65 years and over
+SUBHD0101_S09,Number - Both sexes; AGE - Noninstitutionalized population
+SUBHD0102_S09,Number - Male; AGE - Noninstitutionalized population
+SUBHD0103_S09,Number - Female; AGE - Noninstitutionalized population
+SUBHD0201_S09,Percent - Both sexes; AGE - Noninstitutionalized population
+SUBHD0202_S09,Percent - Male; AGE - Noninstitutionalized population
+SUBHD0203_S09,Percent - Female; AGE - Noninstitutionalized population
+SUBHD0101_S10,Number - Both sexes; AGE - Noninstitutionalized population - Under 18 years
+SUBHD0102_S10,Number - Male; AGE - Noninstitutionalized population - Under 18 years
+SUBHD0103_S10,Number - Female; AGE - Noninstitutionalized population - Under 18 years
+SUBHD0201_S10,Percent - Both sexes; AGE - Noninstitutionalized population - Under 18 years
+SUBHD0202_S10,Percent - Male; AGE - Noninstitutionalized population - Under 18 years
+SUBHD0203_S10,Percent - Female; AGE - Noninstitutionalized population - Under 18 years
+SUBHD0101_S11,Number - Both sexes; AGE - Noninstitutionalized population - 18 to 64 years
+SUBHD0102_S11,Number - Male; AGE - Noninstitutionalized population - 18 to 64 years
+SUBHD0103_S11,Number - Female; AGE - Noninstitutionalized population - 18 to 64 years
+SUBHD0201_S11,Percent - Both sexes; AGE - Noninstitutionalized population - 18 to 64 years
+SUBHD0202_S11,Percent - Male; AGE - Noninstitutionalized population - 18 to 64 years
+SUBHD0203_S11,Percent - Female; AGE - Noninstitutionalized population - 18 to 64 years
+SUBHD0101_S12,Number - Both sexes; AGE - Noninstitutionalized population - 65 years and over
+SUBHD0102_S12,Number - Male; AGE - Noninstitutionalized population - 65 years and over
+SUBHD0103_S12,Number - Female; AGE - Noninstitutionalized population - 65 years and over
+SUBHD0201_S12,Percent - Both sexes; AGE - Noninstitutionalized population - 65 years and over
+SUBHD0202_S12,Percent - Male; AGE - Noninstitutionalized population - 65 years and over
+SUBHD0203_S12,Percent - Female; AGE - Noninstitutionalized population - 65 years and over
+SUBHD0101_S13,Number - Both sexes; TYPE OF GROUP QUARTERS - Group quarters population
+SUBHD0102_S13,Number - Male; TYPE OF GROUP QUARTERS - Group quarters population
+SUBHD0103_S13,Number - Female; TYPE OF GROUP QUARTERS - Group quarters population
+SUBHD0201_S13,Percent - Both sexes; TYPE OF GROUP QUARTERS - Group quarters population
+SUBHD0202_S13,Percent - Male; TYPE OF GROUP QUARTERS - Group quarters population
+SUBHD0203_S13,Percent - Female; TYPE OF GROUP QUARTERS - Group quarters population
+SUBHD0101_S14,Number - Both sexes; TYPE OF GROUP QUARTERS - Group quarters population - Institutionalized population
+SUBHD0102_S14,Number - Male; TYPE OF GROUP QUARTERS - Group quarters population - Institutionalized population
+SUBHD0103_S14,Number - Female; TYPE OF GROUP QUARTERS - Group quarters population - Institutionalized population
+SUBHD0201_S14,Percent - Both sexes; TYPE OF GROUP QUARTERS - Group quarters population - Institutionalized population
+SUBHD0202_S14,Percent - Male; TYPE OF GROUP QUARTERS - Group quarters population - Institutionalized population
+SUBHD0203_S14,Percent - Female; TYPE OF GROUP QUARTERS - Group quarters population - Institutionalized population
+SUBHD0101_S15,Number - Both sexes; TYPE OF GROUP QUARTERS - Group quarters population - Institutionalized population - Correctional facilities for adults
+SUBHD0102_S15,Number - Male; TYPE OF GROUP QUARTERS - Group quarters population - Institutionalized population - Correctional facilities for adults
+SUBHD0103_S15,Number - Female; TYPE OF GROUP QUARTERS - Group quarters population - Institutionalized population - Correctional facilities for adults
+SUBHD0201_S15,Percent - Both sexes; TYPE OF GROUP QUARTERS - Group quarters population - Institutionalized population - Correctional facilities for adults
+SUBHD0202_S15,Percent - Male; TYPE OF GROUP QUARTERS - Group quarters population - Institutionalized population - Correctional facilities for adults
+SUBHD0203_S15,Percent - Female; TYPE OF GROUP QUARTERS - Group quarters population - Institutionalized population - Correctional facilities for adults
+SUBHD0101_S16,Number - Both sexes; TYPE OF GROUP QUARTERS - Group quarters population - Institutionalized population - Juvenile facilities
+SUBHD0102_S16,Number - Male; TYPE OF GROUP QUARTERS - Group quarters population - Institutionalized population - Juvenile facilities
+SUBHD0103_S16,Number - Female; TYPE OF GROUP QUARTERS - Group quarters population - Institutionalized population - Juvenile facilities
+SUBHD0201_S16,Percent - Both sexes; TYPE OF GROUP QUARTERS - Group quarters population - Institutionalized population - Juvenile facilities
+SUBHD0202_S16,Percent - Male; TYPE OF GROUP QUARTERS - Group quarters population - Institutionalized population - Juvenile facilities
+SUBHD0203_S16,Percent - Female; TYPE OF GROUP QUARTERS - Group quarters population - Institutionalized population - Juvenile facilities
+SUBHD0101_S17,Number - Both sexes; TYPE OF GROUP QUARTERS - Group quarters population - Institutionalized population - Nursing facilities/Skilled-nursing facilities
+SUBHD0102_S17,Number - Male; TYPE OF GROUP QUARTERS - Group quarters population - Institutionalized population - Nursing facilities/Skilled-nursing facilities
+SUBHD0103_S17,Number - Female; TYPE OF GROUP QUARTERS - Group quarters population - Institutionalized population - Nursing facilities/Skilled-nursing facilities
+SUBHD0201_S17,Percent - Both sexes; TYPE OF GROUP QUARTERS - Group quarters population - Institutionalized population - Nursing facilities/Skilled-nursing facilities
+SUBHD0202_S17,Percent - Male; TYPE OF GROUP QUARTERS - Group quarters population - Institutionalized population - Nursing facilities/Skilled-nursing facilities
+SUBHD0203_S17,Percent - Female; TYPE OF GROUP QUARTERS - Group quarters population - Institutionalized population - Nursing facilities/Skilled-nursing facilities
+SUBHD0101_S18,Number - Both sexes; TYPE OF GROUP QUARTERS - Group quarters population - Institutionalized population - Other institutional facilities
+SUBHD0102_S18,Number - Male; TYPE OF GROUP QUARTERS - Group quarters population - Institutionalized population - Other institutional facilities
+SUBHD0103_S18,Number - Female; TYPE OF GROUP QUARTERS - Group quarters population - Institutionalized population - Other institutional facilities
+SUBHD0201_S18,Percent - Both sexes; TYPE OF GROUP QUARTERS - Group quarters population - Institutionalized population - Other institutional facilities
+SUBHD0202_S18,Percent - Male; TYPE OF GROUP QUARTERS - Group quarters population - Institutionalized population - Other institutional facilities
+SUBHD0203_S18,Percent - Female; TYPE OF GROUP QUARTERS - Group quarters population - Institutionalized population - Other institutional facilities
+SUBHD0101_S19,Number - Both sexes; TYPE OF GROUP QUARTERS - Group quarters population - Noninstitutionalized population
+SUBHD0102_S19,Number - Male; TYPE OF GROUP QUARTERS - Group quarters population - Noninstitutionalized population
+SUBHD0103_S19,Number - Female; TYPE OF GROUP QUARTERS - Group quarters population - Noninstitutionalized population
+SUBHD0201_S19,Percent - Both sexes; TYPE OF GROUP QUARTERS - Group quarters population - Noninstitutionalized population
+SUBHD0202_S19,Percent - Male; TYPE OF GROUP QUARTERS - Group quarters population - Noninstitutionalized population
+SUBHD0203_S19,Percent - Female; TYPE OF GROUP QUARTERS - Group quarters population - Noninstitutionalized population
+SUBHD0101_S20,Number - Both sexes; TYPE OF GROUP QUARTERS - Group quarters population - Noninstitutionalized population - College/University student housing
+SUBHD0102_S20,Number - Male; TYPE OF GROUP QUARTERS - Group quarters population - Noninstitutionalized population - College/University student housing
+SUBHD0103_S20,Number - Female; TYPE OF GROUP QUARTERS - Group quarters population - Noninstitutionalized population - College/University student housing
+SUBHD0201_S20,Percent - Both sexes; TYPE OF GROUP QUARTERS - Group quarters population - Noninstitutionalized population - College/University student housing
+SUBHD0202_S20,Percent - Male; TYPE OF GROUP QUARTERS - Group quarters population - Noninstitutionalized population - College/University student housing
+SUBHD0203_S20,Percent - Female; TYPE OF GROUP QUARTERS - Group quarters population - Noninstitutionalized population - College/University student housing
+SUBHD0101_S21,Number - Both sexes; TYPE OF GROUP QUARTERS - Group quarters population - Noninstitutionalized population - Military quarters
+SUBHD0102_S21,Number - Male; TYPE OF GROUP QUARTERS - Group quarters population - Noninstitutionalized population - Military quarters
+SUBHD0103_S21,Number - Female; TYPE OF GROUP QUARTERS - Group quarters population - Noninstitutionalized population - Military quarters
+SUBHD0201_S21,Percent - Both sexes; TYPE OF GROUP QUARTERS - Group quarters population - Noninstitutionalized population - Military quarters
+SUBHD0202_S21,Percent - Male; TYPE OF GROUP QUARTERS - Group quarters population - Noninstitutionalized population - Military quarters
+SUBHD0203_S21,Percent - Female; TYPE OF GROUP QUARTERS - Group quarters population - Noninstitutionalized population - Military quarters
+SUBHD0101_S22,Number - Both sexes; TYPE OF GROUP QUARTERS - Group quarters population - Noninstitutionalized population - Other noninstitutional facilities
+SUBHD0102_S22,Number - Male; TYPE OF GROUP QUARTERS - Group quarters population - Noninstitutionalized population - Other noninstitutional facilities
+SUBHD0103_S22,Number - Female; TYPE OF GROUP QUARTERS - Group quarters population - Noninstitutionalized population - Other noninstitutional facilities
+SUBHD0201_S22,Percent - Both sexes; TYPE OF GROUP QUARTERS - Group quarters population - Noninstitutionalized population - Other noninstitutional facilities
+SUBHD0202_S22,Percent - Male; TYPE OF GROUP QUARTERS - Group quarters population - Noninstitutionalized population - Other noninstitutional facilities
+SUBHD0203_S22,Percent - Female; TYPE OF GROUP QUARTERS - Group quarters population - Noninstitutionalized population - Other noninstitutional facilities
