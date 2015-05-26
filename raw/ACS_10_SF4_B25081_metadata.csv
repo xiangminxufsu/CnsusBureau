@@ -1,0 +1,10 @@
+GEO.id2,Id2
+POPGROUP.id,Id
+HD01_VD01,Estimate; Total housing units with mortgage:
+HD01_VD02,"Estimate; Housing units with a mortgage, contract to purchase, or similar debt:"
+HD01_VD03,"Estimate; Housing units with a mortgage, contract to purchase, or similar debt: - With either a second mortgage or home equity loan, but not both:"
+HD01_VD04,"Estimate; Housing units with a mortgage, contract to purchase, or similar debt: - With either a second mortgage or home equity loan, but not both: - Second mortgage only"
+HD01_VD05,"Estimate; Housing units with a mortgage, contract to purchase, or similar debt: - With either a second mortgage or home equity loan, but not both: - Home equity loan only"
+HD01_VD06,"Estimate; Housing units with a mortgage, contract to purchase, or similar debt: - Both second mortgage and home equity loan"
+HD01_VD07,"Estimate; Housing units with a mortgage, contract to purchase, or similar debt: - No second mortgage and no home equity loan"
+HD01_VD08,Estimate; Housing units without a mortgage

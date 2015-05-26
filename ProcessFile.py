@@ -7,7 +7,7 @@ def handler(outf,annf,metaf):
     #print annf.readline()
     #get head from annf
     annf.readline() #first line is useless
-    headlist = (annf.readline().split(','))
+    headlist = re.findall(r'(?:[^\r\n,"]|"(?:\\.|[^"])*")+', annf.readline())
     headlist=map(lambda x:x.strip(),headlist)
     #print headlist
     
@@ -16,12 +16,13 @@ def handler(outf,annf,metaf):
     outheadlist = []
     for x in metaf:
         try:
-            x = x.strip().split(',')[1] #use the second one to match
+            x = re.findall(r'(?:[^\r\n,"]|"(?:\\.|[^"])*")+', x)[1] #use the second one to match
             outheadlist.append(x)
         except IndexError:
             raise("can not process s%: ",x)
         
         try:
+            print x, headlist.index(x)
             indexlist.append(headlist.index(x))
         except ValueError:
             raise ValueError("could not find {0} in the".format(x),headlist) 
@@ -29,8 +30,10 @@ def handler(outf,annf,metaf):
     #write into newfiles:
     outf.write((','.join(outheadlist)+'\r\n'))
     for line in annf:
-        matched = re.findall(r'(?:[^\s,"]|"(?:\\.|[^"])*")+', line)
+        matched = re.findall(r'(?:[^\r\n,"]|"(?:\\.|[^"])*")+', line)
         #print matched
+        #print indexlist
+        #print headlist
         writelist = []
         for i in indexlist:
             #print matched[int(i)]
@@ -41,8 +44,8 @@ def handler(outf,annf,metaf):
 def main():
     logging.basicConfig(filename = 'log.log',format = '%(asctime)s %(levelname)s:%(message)s', level=logging.DEBUG)
     logging.info('start running')
-    newdirectory = r"c:\census2010rawdata\SedData"
-    directory = r"c:\census2010rawdata\raw"
+    newdirectory = r"c:\CnsusBureau\SedData"
+    directory = r"c:\CnsusBureau\raw"
     if not os.path.exists(newdirectory):
         os.makedirs(newdirectory)
     logging.debug('looks good')   

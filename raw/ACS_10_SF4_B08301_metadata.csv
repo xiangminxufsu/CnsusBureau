@@ -1,0 +1,13 @@
+GEO.id2,Id2
+POPGROUP.id,Id
+HD01_VD01,Estimate; Total:
+HD01_VD02,"Estimate; Car, truck, or van:"
+HD01_VD03,"Estimate; Car, truck, or van: - Drove alone"
+HD01_VD04,"Estimate; Car, truck, or van: - Carpooled:"
+HD01_VD10,Estimate; Public transportation (excluding taxicab):
+HD01_VD16,Estimate; Taxicab
+HD01_VD17,Estimate; Motorcycle
+HD01_VD18,Estimate; Bicycle
+HD01_VD19,Estimate; Walked
+HD01_VD20,Estimate; Other means
+HD01_VD21,Estimate; Worked at home

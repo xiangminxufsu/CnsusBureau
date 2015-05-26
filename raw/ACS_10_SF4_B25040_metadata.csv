@@ -1,0 +1,12 @@
+GEO.id2,Id2
+POPGROUP.id,Id
+HD01_VD01,Estimate; Total heating:
+HD01_VD02,Estimate; Total: - Utility gas
+HD01_VD03,"Estimate; Total: - Bottled, tank, or LP gas"
+HD01_VD04,Estimate; Total: - Electricity
+HD01_VD05,"Estimate; Total: - Fuel oil, kerosene, etc."
+HD01_VD06,Estimate; Total: - Coal or coke
+HD01_VD07,Estimate; Total: - Wood
+HD01_VD08,Estimate; Total: - Solar energy
+HD01_VD09,Estimate; Total: - Other fuel
+HD01_VD10,Estimate; Total: - No fuel used
