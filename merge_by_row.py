@@ -12,14 +12,14 @@ import logging
 def mergefile():
     logging.basicConfig(filename = 'log.log',format = '%(asctime)s %(levelname)s:%(message)s', level=logging.DEBUG)
     logging.info('merge started')
-    path = r"C:\\census2010rawdata\\SedData"
-    destination = r"C:\\census2010rawdata\\Des"
+    path = r"C:\\CnsusBureau\\SedData"
+    destination = r"C:\\CnsusBureau\\Des"
     if not os.path.exists(destination):
         os.makedirs(destination)
 
 
     assert os.path.exists(path), "Could not find %s !!!" % path
-    files = os.listdir("C:\\census2010rawdata\\SedData")
+    files = os.listdir("C:\\CnsusBureau\\SedData")
     #print files
     files = [join(path,x) for x in files]
     #print files

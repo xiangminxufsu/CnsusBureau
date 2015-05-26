@@ -22,9 +22,10 @@ def handler(outf,annf,metaf):
             raise("can not process s%: ",x)
         
         try:
-            print x, headlist.index(x)
+            #print x, headlist.index(x)
             indexlist.append(headlist.index(x))
         except ValueError:
+            logging.error("this line processed uncorrect.\n line:{0}\n matched:{1}".format(x,headlist))
             raise ValueError("could not find {0} in the".format(x),headlist) 
     
     #write into newfiles:
@@ -34,10 +35,17 @@ def handler(outf,annf,metaf):
         #print matched
         #print indexlist
         #print headlist
+        try:
+            assert len(matched) == len(headlist)
+        except AssertionError:
+            logging.error("this line processed uncorrect.\n line:{0}\n matched:{1}".format(line,matched))
         writelist = []
         for i in indexlist:
             #print matched[int(i)]
-            writelist.append(matched[int(i)])
+            try:
+                writelist.append(matched[int(i)])
+            except IndexError:
+                raise("find uncorrect mapping between mataf and annf")
         outf.write(','.join(writelist)+'\r\n')
         #break
     
@@ -48,7 +56,7 @@ def main():
     directory = r"c:\CnsusBureau\raw"
     if not os.path.exists(newdirectory):
         os.makedirs(newdirectory)
-    logging.debug('looks good')   
+    #logging.debug('looks good')   
     for filename in os.listdir(directory):
         #get the needed files _with_ann and find the matching metadata
         if filename.split('.')[-1] == 'csv' and not 'metadata' in filename:

@@ -32,3 +32,16 @@
 2015-05-22 17:38:01,789 DEBUG:looks good
 2015-05-22 17:39:23,910 INFO:start running
 2015-05-22 17:39:23,910 DEBUG:looks good
+2015-05-26 11:26:56,344 INFO:start running
+2015-05-26 11:26:56,344 DEBUG:looks good
+2015-05-26 11:33:07,463 INFO:start running
+2015-05-26 11:34:42,026 INFO:start running
+2015-05-26 12:11:29,405 INFO:start running
+2015-05-26 12:15:01,559 INFO:start running
+2015-05-26 12:16:07,927 INFO:start running
+2015-05-26 12:16:11,752 ERROR:this line processed uncorrect
+2015-05-26 12:18:36,776 INFO:start running
+2015-05-26 12:18:40,612 ERROR:this line processed uncorrect Estimate; Total social security income:,['Id', 'Id2', 'Geography', 'Id', 'Population Group', 'Estimate; Total:', 'Margin of Error; Total:', 'Estimate; Total: - With Social Security income', 'Margin of Error; Total: - With Social Security income', 'Estimate; Total: - No Social Security income', 'Margin of Error; Total: - No Social Security income']
+2015-05-26 12:21:10,674 INFO:start running
+2015-05-26 12:21:14,510 ERROR:this line processed uncorrect. line:Estimate; Total social security income:
+ matched:['Id', 'Id2', 'Geography', 'Id', 'Population Group', 'Estimate; Total:', 'Margin of Error; Total:', 'Estimate; Total: - With Social Security income', 'Margin of Error; Total: - With Social Security income', 'Estimate; Total: - No Social Security income', 'Margin of Error; Total: - No Social Security income']
