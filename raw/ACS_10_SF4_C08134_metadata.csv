@@ -1,6 +1,6 @@
 GEO.id2,Id2
 POPGROUP.id,Id
-HD01_VD01,Estimate; Total travel time to work:
+HD01_VD01,Estimate; Total:
 HD01_VD03,Estimate; Total: - Less than 10 minutes
 HD01_VD04,Estimate; Total: - 10 to 14 minutes
 HD01_VD05,Estimate; Total: - 15 to 19 minutes
@@ -11,4 +11,3 @@ HD01_VD09,Estimate; Total: - 35 to 44 minutes
 HD01_VD10,Estimate; Total: - 45 to 59 minutes
 HD01_VD11,Estimate; Total: - 60 or more minutes
 HD01_VD32,Estimate; Total: - Public transportation (excluding taxicab):
-
